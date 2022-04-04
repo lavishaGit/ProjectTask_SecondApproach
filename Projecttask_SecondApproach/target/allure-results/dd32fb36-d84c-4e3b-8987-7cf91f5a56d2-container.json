@@ -1,0 +1,1 @@
+{"uuid":"dd32fb36-d84c-4e3b-8987-7cf91f5a56d2","name":"Scenario: Check whether after logout user could able to access friends page","children":["12fdd977-c07b-4a20-9d08-fa21441f4673"],"befores":[],"afters":[],"start":1649039868866,"stop":1649039870781}
